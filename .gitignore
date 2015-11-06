@@ -1,0 +1,13 @@
+Bin
+Library
+Temp
+obj
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+
+*.userprefs
+
+*.exe
